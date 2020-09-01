@@ -1,2 +1,5 @@
 A blanket is comforting as we work from a far.
 Below are the musings from learners of R:
+I like using ggplot more than cleaning my car.
+I hope that makes me a shining star.
+
